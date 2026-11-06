@@ -26,7 +26,7 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 <h2>📃 Certifications:</h2>
-<b><a href="">Google IT Support Professional Certificate </a></b>
+<b><a href="https://coursera.org/share/1228d354dd6d68f13d6930f961721df9">Google IT Support Professional Certificate</b>
 <h2> 🤳 Connect with me:</h2>
 
 

@@ -2,7 +2,7 @@
 
 ```Aspiring IT Support Analyst```
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joshua-omoya/)
 
 <h2>⭐ Featured Projects:</h2>
 

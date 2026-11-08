@@ -10,6 +10,8 @@
 <img src="./WinServer.jpg" width="70" height="149" /> 
 <img src="./MS365.png" width="64" height="160" />
 <img src="./AD.png" width="79" height="190" />
+<img src="./Spiceworks.png" width="45" height="190" />
+
 
 <h2>⭐ Featured Projects:</h2>
 

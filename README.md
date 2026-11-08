@@ -1,5 +1,7 @@
 <h1>Joshua Omoya
 
+**`Aspiring IT Support Analyst`**
+
 <h2>⭐ Featured Projects:</h2>
 
 - Project 1

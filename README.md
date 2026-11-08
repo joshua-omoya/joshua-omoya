@@ -9,7 +9,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- Project 1
+- Project 1 (Active Directory)
 - Project 2
 
 <h2>📃 Certifications:</h2>

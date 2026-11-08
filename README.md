@@ -7,7 +7,7 @@
 
 <h2>My Skills<h2/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="120" height="50" /> 
-<img src="./WinServer.jpg" width="65" height="103" /> 
+<img src="./WinServer.jpg" width="70" height="149" /> 
 
 
 <h2>⭐ Featured Projects:</h2>

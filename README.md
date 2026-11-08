@@ -1,7 +1,7 @@
 <h1>Joshua Omoya
 
 
-```Aspiring IT Support Analyst```
+```Aspiring Helpdesk Analyst```
 
 [![Connect With Me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joshua-omoya/)
 

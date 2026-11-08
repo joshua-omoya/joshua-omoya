@@ -6,6 +6,7 @@
 [![Connect With Me](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joshua-omoya/)
 
 <h2>My Skills<h2/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="120" height="50" /> 
 
 
 

@@ -9,7 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="120" height="50" /> 
 <img src="./WinServer.jpg" width="70" height="149" /> 
 <img src="./MS365.png" width="64" height="160" />
-
+<img src="./AD.png" width="85" height="146" />
 
 <h2>⭐ Featured Projects:</h2>
 

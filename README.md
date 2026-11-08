@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joshua, an <a href="https://www.linkedin.com/in/joshua-omoya/">IT Professional.</a>
+<h1>Joshua Omoya
 
 <h2>⭐ Featured Projects:</h2>
 

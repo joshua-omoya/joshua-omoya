@@ -1,6 +1,6 @@
 <h1>Joshua Omoya
 
-**`Aspiring IT Support Analyst`**
+<pre><code><small>Aspiring IT Support Analyst</small></code></pre>
 
 <h2>⭐ Featured Projects:</h2>
 

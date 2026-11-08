@@ -2,6 +2,8 @@
 
 ```Aspiring IT Support Analyst```
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
 <h2>⭐ Featured Projects:</h2>
 
 - Project 1
@@ -18,14 +20,6 @@
 
 - <a href="https://coursera.org/share/1228d354dd6d68f13d6930f961721df9">Google IT Support Professional Certificate<a/>
 
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/joshua-omoya/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

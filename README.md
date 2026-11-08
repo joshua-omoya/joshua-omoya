@@ -9,9 +9,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="120" height="50" /> 
 <img src="./WinServer.jpg" width="70" height="149" /> 
 <img src="./MS365.png" width="64" height="160" />
-<img src="./AD.png" width="79" height="190" />
+<img src="./Active-Directory.png" width="79" height="299" />
 <img src="./Spiceworks.png" width="45" height="190" />
-<img src="./Entra ID.jpg" width="75" height="205" />
+<img src="./Entra ID.jpg" width="70" height="150" />
 
 <h2>⭐ Featured Projects:</h2>
 

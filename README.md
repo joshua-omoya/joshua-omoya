@@ -15,7 +15,7 @@
 
 <h2>⭐ Featured Projects:</h2>
 
-- Project 1
+- Project 1 - This could be the prerequisite or so
 - Project 2
 
 

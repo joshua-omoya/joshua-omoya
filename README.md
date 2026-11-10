@@ -23,7 +23,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - Project 1 (Active Directory)
-- Project 2 (This could be for the OS ticket or ms 365, maybe)
+- Project 2 
 
 <h2>📃 Certifications:</h2>
 

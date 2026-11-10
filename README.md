@@ -15,7 +15,7 @@
 
 <h2>⭐ Featured Projects:</h2>
 
-- Project 1 - Possbly for 
+- Project 1  
 - Project 2
 
 

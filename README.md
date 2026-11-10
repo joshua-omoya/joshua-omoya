@@ -11,7 +11,7 @@
 <img src="./MS365.png" width="64" height="160" />
 <img src="./Active-Directory.png" width="79" height="299" />
 <img src="./Spiceworks.png" width="45" height="190" />
-<img src="./Entra ID.jpg" width="70" height="150" />
+<img src="./Entra ID.jpg" width="70" height="151" />
 
 <h2>⭐ Featured Projects:</h2>
 
@@ -23,7 +23,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - Project 1 (Active Directory)
-- Project 2
+- Project 2 
 
 <h2>📃 Certifications:</h2>
 

@@ -18,9 +18,9 @@
 - Project 1  
 - Project 2
 
-<h2> About Me</h2>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+
+<h2>👨‍💻 Information AGSGAGDGSDDGSA echnology Projects:</h2>
 
 - Project 1 (Active Directory)
 - Project 2 

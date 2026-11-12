@@ -12,7 +12,7 @@
 <img src="./Active-Directory.png" width="79" height="299" />
 <img src="./Spiceworks.png" width="45" height="190" />
 <img src="./Entra ID.jpg" width="70" height="150" />
-
+<h2> About Me <h2/>
 <h2>⭐ Featured Projects:</h2>
 
 - Project 1  

@@ -28,7 +28,7 @@
 <h2>📃 Certifications:</h2>
 
 - <a href="https://coursera.org/share/1228d354dd6d68f13d6930f961721df9">Google IT Support Professional Certificate<a/>
-- <a href="https://coursera.org/share/1228d354dd6d68f13d6930f961721df9">CompTIA A+<a/>
+
 
 
 

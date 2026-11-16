@@ -16,7 +16,7 @@
 <h2>⭐ Featured Projects:</h2>
 
 - Project 1  
-- Project 2  asadggggggggggggggggggggggggggggggggggggggg
+- Project 2 
 
 
 
